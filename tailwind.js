@@ -725,3 +725,7 @@ module.exports = {
   corePlugins: {},
   plugins: [],
 }
+
+whenDone = () => {
+  fontFamily: strikethrough 
+}
